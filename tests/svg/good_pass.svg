@@ -1,0 +1,16 @@
+<svg viewBox="0 0 680 300" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <g class="node c-blue" transform="translate(40,40)">
+    <rect width="180" height="56" rx="8"/>
+    <text class="th" x="90" y="24" text-anchor="middle" dominant-baseline="central">狀態彙報</text>
+    <text class="ts" x="90" y="42" text-anchor="middle" dominant-baseline="central">120字 → 28字（-77%）</text>
+  </g>
+  <g class="node c-teal" transform="translate(250,40)">
+    <rect width="180" height="56" rx="8"/>
+    <text class="th" x="90" y="24" text-anchor="middle" dominant-baseline="central">決策諮詢</text>
+    <text class="ts" x="90" y="42" text-anchor="middle" dominant-baseline="central">羅列4案 → 1案＋表</text>
+  </g>
+  <g class="node c-teal" transform="translate(40,200)">
+    <rect width="598" height="40" rx="8"/>
+    <text class="ts" x="299" y="20" text-anchor="middle" dominant-baseline="central">鐵律：掃描報告 → 確認 → 才動文件</text>
+  </g>
+</svg>

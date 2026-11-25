@@ -1,0 +1,11 @@
+```python
+import os, time
+CUT = time.time() - 86400
+for root in (r"C:/Users/1/Desktop", "D://"):
+    for dp, _, fs in os.walk(root):
+        for f in fs:
+            p = os.path.join(dp, f)
+            if os.path.getmtime(p) > CUT and os.path.getsize(p) > 51200:
+                print(p)
+```
+只读，不改文件。要排除缓存目录，在循环内加 `if "AppData" in dp: continue`。

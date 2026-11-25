@@ -1,0 +1,10 @@
+<svg viewBox="0 0 680 200" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <g class="node c-blue" transform="translate(40,40)">
+    <rect width="180" height="56" rx="8"/>
+    <text class="th" x="90" y="28" text-anchor="middle" dominant-baseline="central">節點A</text>
+  </g>
+  <g class="node c-teal" transform="translate(140,60)">
+    <rect width="180" height="56" rx="8"/>
+    <text class="th" x="90" y="28" text-anchor="middle" dominant-baseline="central">節點B</text>
+  </g>
+</svg>

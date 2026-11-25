@@ -1,0 +1,6 @@
+<svg viewBox="0 0 680 200" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(40,40)">
+    <rect width="200" height="56" rx="8"/>
+    <text class="th" x="190" y="28" text-anchor="end" dominant-baseline="central">12/14</text>
+  </g>
+</svg>

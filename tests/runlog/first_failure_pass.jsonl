@@ -1,0 +1,2 @@
+{"ts": "2026-11-13 08:00", "task": "知识库晨报", "status": "OK", "sig": "src=2;items=9", "note": ""}
+{"ts": "2026-11-14 08:00", "task": "知识库晨报", "status": "FAILED", "sig": "ima=timeout", "note": "IMA 连接超时"}

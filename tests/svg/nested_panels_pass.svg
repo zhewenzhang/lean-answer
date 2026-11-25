@@ -1,0 +1,14 @@
+<svg viewBox="0 0 680 420" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <g class="c-blue" transform="translate(40,140)">
+    <rect width="280" height="190" rx="12"/>
+    <text class="th" x="140" y="26" text-anchor="middle" dominant-baseline="central">工作秘書</text>
+    <g class="box">
+      <rect x="20" y="45" width="240" height="40" rx="6"/>
+      <text class="ts" x="140" y="65" text-anchor="middle" dominant-baseline="central">每日 10:00 研報摘要</text>
+    </g>
+    <g class="box">
+      <rect x="20" y="93" width="240" height="40" rx="6"/>
+      <text class="ts" x="140" y="113" text-anchor="middle" dominant-baseline="central">收盤後 A股復盤</text>
+    </g>
+  </g>
+</svg>

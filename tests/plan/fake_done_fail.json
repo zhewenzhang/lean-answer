@@ -1,0 +1,10 @@
+{
+  "goal": "回归样本：典型的假完成计划",
+  "tasks": [
+    {"id": "T1", "do": "优化性能", "check": "", "status": "DONE", "evidence": ""},
+    {"id": "T2", "do": "完善文档", "check": "文档审查通过", "status": "DONE",
+     "evidence": "已按要求处理完毕，效果良好"},
+    {"id": "T3", "do": "接入邮件", "check": "收到测试邮件", "status": "FAILED"},
+    {"id": "T4", "do": "重构模块", "check": "测试全绿", "status": "UNVERIFIED"}
+  ]
+}

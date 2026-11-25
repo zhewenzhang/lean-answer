@@ -1,0 +1,11 @@
+{
+  "goal": "回归样本：全部任务带可核验证据",
+  "tasks": [
+    {"id": "T1", "do": "跑回归套件", "check": "23 样本符合预期", "status": "DONE",
+     "evidence": "exit=0 | 23/23 样本判定符合预期"},
+    {"id": "T2", "do": "重打包", "check": "zip 33 个文件", "status": "DONE",
+     "evidence": "zip files: 33"},
+    {"id": "T3", "do": "停用旧方案", "check": "—", "status": "SKIPPED",
+     "reason": "新方案已覆盖，旧脚本无调用方"}
+  ]
+}

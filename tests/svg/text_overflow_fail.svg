@@ -1,0 +1,11 @@
+<svg viewBox="0 0 680 300" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <g class="node c-gray" transform="translate(40,40)">
+    <rect width="130" height="56" rx="8"/>
+    <text class="th" x="65" y="28" text-anchor="middle" dominant-baseline="central">收到問題</text>
+  </g>
+  <g class="node c-teal" transform="translate(578,40)">
+    <rect width="62" height="56" rx="8"/>
+    <text class="th" x="31" y="28" text-anchor="middle" dominant-baseline="central">輸出結論節點</text>
+    <text class="ts" x="31" y="46" text-anchor="middle" dominant-baseline="central">重點≤3 下一步1</text>
+  </g>
+</svg>

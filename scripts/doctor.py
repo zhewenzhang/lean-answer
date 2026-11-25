@@ -47,7 +47,7 @@ def load(name: str):
 
 # ── 1 文件完整性 ────────────────────────────────────────────
 def check_files() -> None:
-    need = ["SKILL.md", "README.md", "CHANGELOG.md", "MARKET.md",
+    need = ["SKILL.md", "README.md", "LICENSE", "CHANGELOG.md", "MARKET.md",
             "references/anti-ai-style.md", "references/gotchas.md",
             "scripts/gate.py", "scripts/lint_reply.py", "scripts/lint_style.py",
             "scripts/deai.py", "scripts/validate_svg.py", "scripts/regress.py",

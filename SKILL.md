@@ -1,6 +1,6 @@
 ---
 name: lean-answer
-version: 2.14.0
+version: 2.15.0
 updated: 2026-11-25
 description: 让 AI 回复短、像人写、可被审计。当用户抱怨回答太长、太啰嗦、方案堆砌，要求说重点／别废话／TL;DR／concise／brief，或要求给文章、邮件、汇报稿去 AI 味（英文引号、数字空格、破折号滥用、不是…而是…等包浆句式、替用户升华）时使用。含三档严格度：lite 只砍废话、standard 全套规则、audit 出可交付的合规报告。正式研报、PPT、讲稿不压缩完整度，但同样受去 AI 味约束。
 ---

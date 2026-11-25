@@ -1,6 +1,12 @@
 # Changelog
 
 ## 2.15.0 — 2026-11-25
+- **R1 落地：GitHub 公开仓库 https://github.com/zhewenzhang/lean-answer**（MIT，main 分支，tag v2.15.0 + Release）。`npx skills add zhewenzhang/lean-answer` 实测可装到 Claude Code（.claude/skills/）。
+- README 重写为仓库版：效果示例（改写前后对照）、与纯 prompt 的区别（规则变代码）、npx 安装路径。
+- LICENSE 补 MIT（上上轮缺口#5 闭环）。
+- doctor 核心文件清单纳入 LICENSE。
+
+## 2.15.0-历史 — 2026-11-25
 R2-R5 一次做完（R1 GitHub 仓库待用户提供账号）：
 
 - **R2 token 总账实测**：主文件注入 3236 字 ≈ 1282~1709 token，单轮输出节省 228~303 token，盈亏平衡约 6 轮/天。写入 README「诚实的数字」节——这是本项目第一笔算出来的账，此前只有合成样本。
